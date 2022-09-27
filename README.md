@@ -1,6 +1,6 @@
 # RNFoodDeliveryApp_Backend
 
-# Descrition
+# Description
 Backend - SignIn and Login of https://github.com/AmalkumarG/RNFoodDeliveryApp_UI.git  
 Created using Express.js a framework of node.js
 
